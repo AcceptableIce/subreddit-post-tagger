@@ -1,0 +1,3 @@
+div#thing_{{name}} > div.entry p .score:before {
+	content: "{{report}}";
+}

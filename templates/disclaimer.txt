@@ -1,0 +1,4 @@
+div#thing_{{name}} > div.entry .md:after{
+	@extend .user-override-disclaimer;
+	content: "{{report}}";
+}

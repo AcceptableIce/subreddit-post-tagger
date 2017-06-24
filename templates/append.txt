@@ -1,0 +1,3 @@
+div#thing_{{name}} > div.entry .md:after {
+	content: "{{report}}";
+}
