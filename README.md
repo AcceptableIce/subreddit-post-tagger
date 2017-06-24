@@ -17,7 +17,7 @@ For example, if your template was
 
 ```
 div.#thing_{{name}} {
-   contents: "{{report}}";
+  contents: "{{report}}";
 }
 ```
 
@@ -40,6 +40,6 @@ For example, if you wanted the command `hide!` to also respond to `remove!`, you
 @alias #remove
 
 div.#thing_{{name}} {
-	display: none;
+  display: none;
 }
 ```
