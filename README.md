@@ -21,7 +21,7 @@ div.#thing_{{name}} {
 }
 ```
 
-``{{name}}`` would be replaced with the comment's name, and ``{{report}}` would be replaced with the optional message
+`{{name}}` would be replaced with the comment's name, and `{{report}}` would be replaced with the optional message
 provided by the moderator. 
 
 A full list of properties can be found in the `example-report.txt` file.
