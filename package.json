@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Add styles to posts by comment name.",
   "main": "lib/index.js",
+	"bin": "bin/tagger.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
