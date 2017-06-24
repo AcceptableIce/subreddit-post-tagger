@@ -25,3 +25,21 @@ div.#thing_{{name}} {
 provided by the moderator. 
 
 A full list of properties can be found in the `example-report.txt` file.
+
+If you'd like the same template to work for multiple commands, you can define aliases with the syntax:
+
+```
+@alias #commandName
+```
+
+Each alias must be on its own line. Alias directives will be removed when the template is compiled.
+
+For example, if you wanted the command `hide!` to also respond to `remove!`, you could define `hide.txt` as follows:
+
+```
+@alias #remove
+
+div.#thing_{{name}} {
+	display: none;
+}
+```

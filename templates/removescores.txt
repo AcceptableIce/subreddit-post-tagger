@@ -1,3 +1,5 @@
+@alias #removeallscores
+
 div#thing_{{name}} .score {
 	display: none;
 }

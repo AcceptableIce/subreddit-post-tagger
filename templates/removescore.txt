@@ -1,3 +1,5 @@
+@alias #removeonescore
+
 div#thing_{{name}} > div.entry p .score {
 	display: none;
 }
