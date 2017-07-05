@@ -43,9 +43,9 @@ Comment {
   created_utc: 1497500743,
   distinguished: null,
   ignore_reports: false,
-  mod_reports: [ [ 'disclaimer!another test', 'Heytherejake' ] ],
+  mod_reports: [ [ 'disclaimer!another test', 'Corvimae' ] ],
   num_reports: 1,
   link_url: 'https://www.reddit.com/r/Wumbotarian/comments/6h1pg7/political_flairs/',
 	report: 'another test',
-	reporter: 'Heytherejake'
+	reporter: 'Corvimae'
 }
